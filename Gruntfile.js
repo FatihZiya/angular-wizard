@@ -158,8 +158,7 @@ module.exports = function(grunt) {
     'cssmin',
     'html2js',
     'concat', 
-    'uglify', 
-    'karma:build']);
+    'uglify']);
 
   grunt.registerTask('test', ['build']);
   

@@ -19,3 +19,5 @@ npm-debug.log
 src/*.tpls.js
 .idea/
 angular-wizard.iml
+.vs
+/package-lock.json
